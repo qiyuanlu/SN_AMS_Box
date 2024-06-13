@@ -1,5 +1,5 @@
 # SN_AMS_Box
-
+# [切换到中文版](./README_zh_cn.md)
 
 
 
