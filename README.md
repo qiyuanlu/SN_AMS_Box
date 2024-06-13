@@ -1,5 +1,14 @@
 # SN_AMS_Box
 
+
+
+
+![SN_AMS](https://github.com/qiyuanlu/SN_AMS_Box/assets/34583374/9e3a695e-3ea7-40d8-9f26-eefc2c4c6f55)
+
+
+
+
+
 SN_AMS_Box is an Automated Material System (AMS) inspired by Bambulab AMS, MZ-AMS, and ERCF. The goal is to create a robust and stable open-source AMS system that can work with any Klipper printer.
 
 Currently, it is still under development and will include features similar to the Bambulab AMS system. Four N20 motors are responsible for feeding the filament to the synchronized extruder, and at the same time, they also handle rewinding the filament back to the spool.
